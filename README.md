@@ -36,9 +36,9 @@
 
 ## Tech Stack
 
-**Server:** Node, Http, Readline-sync, Puppeteer, Moment<br>
+**Server:** Node, Http, Readline-sync, Puppeteer, Moment
 
-**Local Module: ** FastFollow.js
+**Local_Module:** FastFollow.js
 
 ---
 - ✨ [Destek İçin](https://fastuptime.com) <br>
