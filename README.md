@@ -10,6 +10,8 @@
 - Girdiğiniz kullanıcıları takip eder.
 - Takip İşlemi İçin users.txt deki Kullanıcıları Kullanır.
 - Instagram engellemesin diye proxy.txt deki proxyleri kullanır.
+- Takip Edilince followed.txt Dosyasına Log Düşer.
+- Kullanıcı Zaten takip ediliyor veya Hesabı Gizli İse followed.txt Dosyasına Log Düşer Ve Yanına "Already followed or private account" Not Düşer.
 - Fiyat 200 TL
 - Satın Almak İçin Discord Sunucumuza Gelebilir, FastUptime Sitemizden Destek Talebi Açabilir Veya fastuptime@gmail.com Adresine Mail Atabilirsiniz.
 
@@ -30,7 +32,7 @@
 
 - followed.txt
 
-![image](https://user-images.githubusercontent.com/63351166/214559671-d0db24a8-6e78-49e8-bc81-e8a68626c06c.png)
+![image](https://user-images.githubusercontent.com/63351166/214560725-154c4e88-cdc5-466c-9648-bcf3877c19cc.png)
 
 ## Tech Stack
 
